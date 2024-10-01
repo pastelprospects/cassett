@@ -33,7 +33,7 @@
         "links": [
             {
                 "label": "About",
-                "altText": "About page",
+                "altText": "",
                 "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
