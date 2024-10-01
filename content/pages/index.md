@@ -415,7 +415,7 @@ sections:
           Development Beta User
         image:
           url: /images/mike.jpg
-          altText: John Doe
+          altText: Mike
           styles:
             self:
               borderRadius: full
