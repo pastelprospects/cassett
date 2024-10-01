@@ -537,7 +537,7 @@ sections:
         tagline: Jukebox
         subtitle: High Vibrational Activities
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Dig deeper to feel your vibe.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
