@@ -445,7 +445,7 @@ sections:
         text: |
           Recent User
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/june.jpg
           altText: Maria Walters
           styles:
             self:
