@@ -446,7 +446,7 @@ sections:
           Recent User
         image:
           url: /images/june.jpg
-          altText: Maria Walters
+          altText: June
           styles:
             self:
               borderRadius: full
