@@ -662,7 +662,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cassett - Monologue Memoir
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: A therapeutic audio-visual experience.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
