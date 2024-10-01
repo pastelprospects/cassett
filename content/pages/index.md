@@ -520,6 +520,16 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: blog/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title:
       text: Featured Highlights
       color: text-primary
