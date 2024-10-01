@@ -512,7 +512,7 @@ sections:
     items:
       - title: Vocal Clarity
         tagline: Memoir
-        subtitle: This is the item subtitle
+        subtitle: Speak Up
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
