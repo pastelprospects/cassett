@@ -8,7 +8,7 @@ topSections:
       text: Mindful Memos
       color: text-dark
       type: TitleBlock
-    subtitle: Thought Pieces
+    subtitle: Featured Posts
     posts:
       - content/pages/blog/science-of-sounds.md
       - content/pages/blog/mindful-moments.md
