@@ -363,6 +363,16 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -382,16 +392,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
