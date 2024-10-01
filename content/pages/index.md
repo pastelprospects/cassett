@@ -376,7 +376,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Customer Reviews
       color: text-dark
     subtitle: The Word Around Town
     items:
