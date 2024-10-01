@@ -85,7 +85,7 @@ The science of sounds in layman's terms is acoustics, which is understood to be 
 
 > *Our perception of sound, whether it be volume, tone, cadence etc., influences both our internal and external environments.*
 
-Scientifically speaking, sound waves are a displacement of air molecules that result from vibrations. Sounds influence our environment by dictating the vibe. The tricky part is that our mood tends to be contingent upon or, at the very least, highly depnedent on the vibe. Sounds, specifically songs, can impact our mood in the following ways:
+Scientifically speaking, sound waves are a displacement of air molecules that result from vibrations. Sounds influence our environment by dictating vibes. The tricky part is that our mood tends to be contingent upon or, at the very least, highly dependent vibes. Sounds, specifically songs, can impact our mood in the following ways:
 
 1.  Emotional Resonance: Music can trigger specific emotional responses based on its melody, rhythm, and lyrics. For instance, upbeat, major-key music often induces feelings of happiness and optimism, while slower, minor-key music can evoke sadness or introspection.
 
@@ -96,5 +96,3 @@ Scientifically speaking, sound waves are a displacement of air molecules that re
 4.  Social Connection: Music can bring people together and create a sense of community. Sharing music with others can foster social bonds and improve our mood.
 
 In conclusion, sounds and songs influence vibes which significantly impact our mood. By understanding how sounds affect our emotions, we can use them to enhance our well-being and improve our awareness.
-
-
