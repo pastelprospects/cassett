@@ -520,7 +520,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/daw.jpeg
   - title:
       text: Featured Highlights
       color: text-primary
