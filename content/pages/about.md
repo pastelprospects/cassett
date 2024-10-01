@@ -18,7 +18,7 @@ sections:
       enhanced audio-visual journaling experience.
     actions:
       - label: View Demo
-        url: /
+        url: /demo
         icon: arrowRight
         iconPosition: right
         style: primary
