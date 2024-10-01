@@ -14,7 +14,18 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 slug: consciousness
 isFeatured: true
 colors: bg-light-fg-dark
