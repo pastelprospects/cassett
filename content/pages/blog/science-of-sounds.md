@@ -2,7 +2,12 @@
 title: The Science of Sounds
 slug: science-of-sounds
 date: '2024-08-10'
-excerpt: ''
+excerpt: >-
+  In simple terms, consciousness is everything perceived. The complicated part
+  is that perspective doesn't remain constant. Imagine walking through a museum.
+  As you move closer towards and further away from each exhibit your perception
+  is altered. Although our perspective shifts, what we perceive remains
+  chronologically in tact, absent an anomaly.
 featuredImage:
   url: /images/daw.jpeg
   altText: Case study 1
