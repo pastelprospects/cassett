@@ -171,7 +171,7 @@ sections:
       - url: /images/dele.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/takecharge.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
