@@ -11,11 +11,11 @@ sections:
       type: TitleBlock
     subtitle: A therapeutic audio-visual experience
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      A memoir is meant to be personal. Your expression of self is meant to be
+      limitless. Pairing both of these concepts together, Cassett promises a
+      truly personalized experience without the inherent limitations of a
+      memoir. Flip the page and experience the multi-dimensionality of an
+      enhanced audio-visual journaling experience.
     actions:
       - label: See open positions
         url: /
