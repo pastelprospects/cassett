@@ -165,7 +165,7 @@ sections:
         textAlign: center
   - subtitle: Trustworthy Tools
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/cassett1.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
