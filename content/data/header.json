@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Feattures",
+                    "label": "Features",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
