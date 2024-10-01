@@ -209,11 +209,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: The Audio-Visual Memoir
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Cassett is more than a journal, it's your unrestricted, personal memoir.
+      You're encouraged to engage with the platform, authentically and
+      organically, through text, touch, and speech. Your memoir is your space
+      for genuine expression; we also included a jukebox, in case you need some
+      theme music, and a personalized companion, to keep you accountable.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
