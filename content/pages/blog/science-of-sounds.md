@@ -1,6 +1,6 @@
 ---
 title: The Science of Sounds
-slug: case-study-1
+slug: science-of-sounds
 date: '2024-08-10'
 excerpt: ''
 featuredImage:
