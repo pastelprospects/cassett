@@ -511,7 +511,7 @@ sections:
     subtitle: No Spotlight Necessary
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: Memoir
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
