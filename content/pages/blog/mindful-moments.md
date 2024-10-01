@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Making Mindful Moments
 date: '2021-08-25'
 author: content/data/person1.json
 excerpt: >-
