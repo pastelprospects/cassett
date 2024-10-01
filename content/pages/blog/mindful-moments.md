@@ -2,7 +2,12 @@
 type: PostLayout
 title: Making Mindful Moments
 date: '2024-09-14'
-excerpt: ''
+excerpt: >-
+  Engaging in mindful moments requires that we are fully present without
+  judgement. The ability to be wholly present is a skill that requires constant
+  training. We often either overemphasize the past or attempt to project a
+  future we believe and perceieve. When doing so, we allow our perceived
+  judgement to influence the present moment...
 featuredImage:
   type: ImageBlock
   url: /images/meditate.jpeg
