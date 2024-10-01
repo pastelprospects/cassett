@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Plans",
-            "url": "/pricing",
+            "url": "/plans",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
