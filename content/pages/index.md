@@ -337,9 +337,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Your Mindful Assist
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      With AI assist, your mindfulness journey is tailored specifically for you.
     actions:
       - label: Discover More
         url: /
