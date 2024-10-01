@@ -522,7 +522,7 @@ sections:
       opacity: 100
     actions:
       - type: Button
-        label: Get started
+        label: Read More
         altText: ''
         url: blog/
         showIcon: false
