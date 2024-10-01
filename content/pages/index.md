@@ -261,11 +261,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Speak Your Truth
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      There's something so concise and structured about the typical journal
+      entry that forces us into rote methodology. Expression shouldn't be
+      limited by structure. An audio-visual experience allows you to speak, rap,
+      draw and much more. With Cassett, you're able to fully express yourself,
+      without limitation.
     actions: []
     media:
       title: Title of the video
