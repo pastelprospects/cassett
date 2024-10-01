@@ -533,7 +533,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Take the Plunge
         tagline: Jukebox
         subtitle: This is the item subtitle
         text: |
