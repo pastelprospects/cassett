@@ -80,10 +80,11 @@ sections:
     items:
       - title: Business Development Manager
         subtitle: Sales & Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The Business Development Lead will play a pivotal role in driving
+          go-to-market activities. This individual will be responsible for
+          developing and executing effective sales and marketing strategies to
+          attract users and promote the company's products or services.
         colors: bg-neutral-fg-dark
         styles:
           self:
