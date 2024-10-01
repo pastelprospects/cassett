@@ -23,7 +23,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Cassett
-        tagline: This is the tagline
+        tagline: Mindful Memos
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
