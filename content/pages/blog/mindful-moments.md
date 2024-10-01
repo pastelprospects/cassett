@@ -2,10 +2,7 @@
 type: PostLayout
 title: Making Mindful Moments
 date: '2024-09-14'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature2.svg
