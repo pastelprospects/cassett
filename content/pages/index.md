@@ -168,7 +168,7 @@ sections:
       - url: /images/cassett1.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/dele.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
