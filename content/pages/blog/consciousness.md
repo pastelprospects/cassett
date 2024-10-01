@@ -5,7 +5,7 @@ date: '2024-10-26'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/meditate.jpeg
+  url: /images/synapse.jpeg
   altText: meditate
   styles:
     self:
