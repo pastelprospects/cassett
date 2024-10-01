@@ -297,7 +297,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Personalized Playlists
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
