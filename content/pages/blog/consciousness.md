@@ -6,7 +6,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/synapse.jpeg
-  altText: meditate
+  altText: synapse
   styles:
     self:
       borderRadius: medium
