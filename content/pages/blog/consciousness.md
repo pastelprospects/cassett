@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Making Mindful Moments
+title: Nurturing Consciousness
 date: '2024-09-14'
 excerpt: ''
 featuredImage:
