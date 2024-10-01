@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Nurturing Consciousness
-date: '2024-10-14'
+date: '2024-10-26'
 excerpt: ''
 featuredImage:
   type: ImageBlock
