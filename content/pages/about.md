@@ -99,7 +99,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: UI/UX Designer
-        subtitle: Marketing
+        subtitle: Engineering
         text: >
           The UI/UX Designer will play a crucial role in creating exceptional
           user experiences for our users. This individual will be responsible
