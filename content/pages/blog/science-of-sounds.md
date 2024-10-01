@@ -3,10 +3,10 @@ type: PostLayout
 title: The Science of Sounds
 date: '2024-09-28'
 excerpt: >-
-  Engaging in mindful moments requires that we are fully present without
-  judgement. The ability to be wholly present is a skill that requires constant
-  training. We often either overemphasize the past or attempt to project a
-  future we believe and perceive...
+  Scientifically speaking, sound waves are a displacement of air molecules that
+  result from vibrations. Sounds influence our environment by dictating vibes.
+  The tricky part is that our mood tends to be contingent upon or, at the very
+  least, highly dependent vibes...
 featuredImage:
   type: ImageBlock
   url: /images/meditate.jpeg
