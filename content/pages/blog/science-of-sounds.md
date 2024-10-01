@@ -74,7 +74,7 @@ styles:
 featuredImage:
   type: ImageBlock
   url: /images/daw.jpeg
-  altText: Image alt text placeholder
+  altText: digital audio
   elementId: ''
   styles:
     self:
