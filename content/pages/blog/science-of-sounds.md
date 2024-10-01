@@ -70,7 +70,7 @@ isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
 featuredImage:
   type: ImageBlock
   url: /images/daw.jpeg
