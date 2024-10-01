@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Monologue Memoir
     text: |
-      A therapeutic audio-visual journaling experience.
+      A therapeutic, audio-visual journaling experience.
     actions:
       - label: Join Waitlist
         altText: ''
