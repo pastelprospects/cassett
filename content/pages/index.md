@@ -502,7 +502,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title:
-      text: List of features here
+      text: Featured Highlights
       color: text-primary
       styles:
         self:
