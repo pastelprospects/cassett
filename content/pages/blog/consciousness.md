@@ -2,7 +2,11 @@
 type: PostLayout
 title: Nurturing Consciousness
 date: '2024-10-26'
-excerpt: ''
+excerpt: >-
+  In simple terms, consciousness is everything perceived. The complicated part
+  is that perspective doesn't remain constant. Imagine walking through a museum.
+  As you move closer towards and further away from each exhibit your perception
+  is altered...
 featuredImage:
   type: ImageBlock
   url: /images/synapse.jpeg
