@@ -535,7 +535,7 @@ sections:
         type: FeaturedItem
       - title: Take the Plunge
         tagline: Jukebox
-        subtitle: This is the item subtitle
+        subtitle: High Vibrational Activities
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
