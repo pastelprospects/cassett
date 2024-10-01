@@ -510,7 +510,7 @@ sections:
       type: TitleBlock
     subtitle: No Spotlight Necessary
     items:
-      - title: Feature Item One
+      - title: Vocal Clarity
         tagline: Memoir
         subtitle: This is the item subtitle
         text: |
