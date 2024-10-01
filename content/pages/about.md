@@ -3,28 +3,6 @@ title: About
 slug: about
 sections:
   - title:
-      text: Team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
       text: Cassett
       color: text-dark
       styles:
@@ -77,6 +55,28 @@ sections:
       styles:
         self:
           borderRadius: medium
+  - title:
+      text: Team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    people:
+      - content/data/person1.json
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedPeopleSection
   - title:
       text: Open Positions
       color: text-dark
