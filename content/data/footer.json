@@ -19,7 +19,7 @@
             },
             {
                 "label": "Demo",
-                "url": "/pricing",
+                "url": "/demo",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
