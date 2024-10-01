@@ -7,13 +7,6 @@ excerpt: >-
   result from vibrations. Sounds influence our environment by dictating vibes.
   The tricky part is that our mood tends to be contingent upon or, at the very
   least, highly dependent vibes...
-featuredImage:
-  type: ImageBlock
-  url: /images/meditate.jpeg
-  altText: meditate
-  styles:
-    self:
-      borderRadius: medium
 bottomSections:
   - type: DividerSection
     title: Divider
