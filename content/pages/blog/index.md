@@ -10,7 +10,6 @@ topSections:
       type: TitleBlock
     subtitle: Featured Posts
     posts:
-      - content/pages/blog/science-of-sounds.md
       - content/pages/blog/mindful-moments.md
       - content/pages/blog/consciousness.md
     showThumbnail: true
