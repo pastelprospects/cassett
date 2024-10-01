@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Making Mindful Moments
+title: The Science of Sounds
 date: '2024-09-14'
 excerpt: >-
   Engaging in mindful moments requires that we are fully present without
