@@ -495,6 +495,7 @@ sections:
           - pr-3
   - posts:
       - content/pages/blog/mindful-moments.md
+      - content/pages/blog/consciousness.md
     showThumbnail: true
     showDate: true
     showAuthor: true
