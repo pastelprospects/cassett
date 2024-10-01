@@ -407,8 +407,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "I'm bought into revisitng personal conversations as a form of
+          productive self reflection. I initially didn't expect AI assist to
+          understand me, and it took some time, but it does now. Cassett helped
+          me find my voice."
         tagline: Testimonial 2
         subtitle: Mike
         text: |
