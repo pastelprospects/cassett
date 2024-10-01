@@ -597,11 +597,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join Our Mailing List
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Subscribe to our mailing list to stay up-to-date on the latest
+      developments!
     media:
       fields:
         - name: name
