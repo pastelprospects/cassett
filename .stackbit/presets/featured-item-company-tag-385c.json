@@ -1,0 +1,59 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Company Tag",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Tags"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Cassett",
+                "tagline": "Mindful Memos",
+                "subtitle": "Flip the page and experience an enhanced audio-visual journaling experience",
+                "text": null,
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/cassett.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Company logo",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "ml-3"
+                            ]
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pl-6",
+                            "pb-6",
+                            "pr-6"
+                        ],
+                        "textAlign": "left",
+                        "borderColor": "border-neutralAlt",
+                        "borderStyle": "none",
+                        "borderWidth": 0,
+                        "borderRadius": "none",
+                        "flexDirection": "row"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-company-tag-385c.png"
+        }
+    ]
+}
