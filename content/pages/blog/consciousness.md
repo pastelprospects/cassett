@@ -2,7 +2,11 @@
 type: PostLayout
 title: Nurturing Consciousness
 date: '2024-10-26'
-excerpt: ''
+excerpt: >-
+  In simple terms, consciousness is everything perceived. The complicated part
+  is that perspective doesn't remain constant. Imagine walking through a museum.
+  As you move closer towards and further away from each exhibit your perception
+  is altered...
 featuredImage:
   type: ImageBlock
   url: /images/synapse.jpeg
@@ -10,7 +14,64 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: FeaturedItemsSection
+    items:
+      - type: FeaturedItem
+        title: Cassett
+        tagline: Mindful Memos
+        subtitle: >-
+          Flip the page and experience an enhanced audio-visual journaling
+          experience
+        image:
+          type: ImageBlock
+          url: /images/cassett.svg
+          altText: Company logo
+          styles:
+            self:
+              margin:
+                - ml-3
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderStyle: none
+            borderWidth: 0
+            borderRadius: none
+            flexDirection: row
+    actions: []
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mb-20
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: consciousness
 isFeatured: true
 colors: bg-light-fg-dark
