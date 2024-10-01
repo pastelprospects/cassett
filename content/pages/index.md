@@ -494,7 +494,6 @@ sections:
           - pb-3
           - pr-3
   - posts:
-      - content/pages/blog/consciousness.md
       - content/pages/blog/mindful-moments.md
     showThumbnail: true
     showDate: true
