@@ -76,7 +76,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Join Our Team
     items:
       - title: Account Executive
         subtitle: Sales
