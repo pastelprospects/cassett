@@ -378,8 +378,9 @@ sections:
     subtitle: The Word Around Town
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I could never find the exact words to describe how I felt before
+          Cassett. It's liberating to not have to rely on the structure of
+          written language to get a thought out.”
         tagline: Testimonial 1
         subtitle: Erica
         text: |
