@@ -209,12 +209,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: The Audio-Visual Memoir
-    text: >
-      Cassett is more than a journal, it's your unrestricted, personal memoir.
-      You're encouraged to engage with the platform, authentically and
-      organically, through text, touch, and speech. Your memoir is your space
-      for genuine expression; we also included a jukebox, in case you need some
-      theme music, and a personalized companion, to keep you accountable.
+    text: >+
+      <div style="text-align: center">Cassett is more than a journal, it's your
+      unrestricted, personal memoir. You're encouraged to engage with the
+      platform, authentically and organically, through text, touch, and speech.
+      Your memoir is your space for genuine expression; we also included a
+      jukebox, in case you need some theme music, and a personalized companion,
+      to keep you accountable.</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
