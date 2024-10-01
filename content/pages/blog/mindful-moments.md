@@ -6,7 +6,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/meditate.jpeg
-  altText: Thumbnail
+  altText: meditate
   styles:
     self:
       borderRadius: medium
