@@ -494,9 +494,9 @@ sections:
           - pb-3
           - pr-3
   - posts:
+      - content/pages/blog/science-of-sounds.md
       - content/pages/blog/mindful-moments.md
       - content/pages/blog/consciousness.md
-      - content/pages/blog/science-of-sounds.md
     showThumbnail: true
     showDate: true
     showAuthor: true
