@@ -508,7 +508,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: No SPotl
+    subtitle: No Spotlight Necessary
     items:
       - title: Feature Item One
         tagline: This is the tagline
