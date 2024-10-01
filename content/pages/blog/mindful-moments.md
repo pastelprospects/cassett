@@ -77,7 +77,7 @@ isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 ---
 A mindful moment is a brief pause where you intentionally focus your attention on the present, observing your thoughts, feelings, and sensations without judgment. Typical practices include deep breathing, meditation, or simply observing your surroundings. The objective is to increase awareness and cultivate a sense of calm and clarity in the present moment in order to reduce stress and improve overall well-being. Mindful moments can be seamlessly woven into your daily routine.
 
