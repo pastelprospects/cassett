@@ -77,7 +77,7 @@ isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 ---
 > *"In simple terms, consciousness is everything perceived"*
 
