@@ -79,26 +79,22 @@ styles:
   self:
     flexDirection: row
 ---
-A mindful moment is a brief pause where you intentionally focus your attention on the present, observing your thoughts, feelings, and sensations without judgment. Typical practices include deep breathing, meditation, or simply observing your surroundings. The objective is to increase awareness and cultivate a sense of calm and clarity in the present moment in order to reduce stress and improve overall well-being. Mindful moments can be seamlessly woven into your daily routine.
+Let's admit it: music moves us. Whether it's a catchy melody or lullaby, we can't avoid how sounds capture our attention. Sometimes sound is just noise. Oftentimes sound is literally music to our ears. If sounds impact the environment around us then why wouldn't they impact the environment within us?
 
-Although mindful moments require intentionality they can be easily incorporated into our habitual regimen. For example, practicing mindful moments can include:
+The science of sounds in layman's terms is acoustics, which is understood to be study of the physical properties of sound, its production, transmission, and perception. Our focus is primarily on perception. Our perception of sound, whether it be volume, tone, cadence etc., influences both our internal and external environments. The external is a bit more obvious because we often associate sounds with spaces. The internal is more difficult to tease out due to its interplay with the external.
 
-1.  Mindful Breathing: Take a few minutes to focus on your breath. Inhale deeply through your nose, hold for a moment, then exhale slowly through your mouth. Pay attention to the rhythm of your breathing and the sensations in your body.
+> *Our perception of sound, whether it be volume, tone, cadence etc., influences both our internal and external environments.*
 
-2.  Nature Walk: While walking outside, fully engage your senses. Notice the colors of the leaves, the sounds of birds, the feeling of the ground under your feet, and the smell of fresh air. If your mind wanders, gently bring your focus back to your surroundings.
+Scientifically speaking, sound waves are a displacement of air molecules that result from vibrations. Sounds influence our environment by dictating the vibe. The tricky part is that our mood tends to be contingent upon or, at the very least, highly depnedent on the vibe. Sounds, specifically songs, can impact our mood in the following ways:
 
-3.  Mindful Eating: When you have a meal, take time to savor each bite. Notice the flavors, textures, and aromas of the food. Chew slowly and appreciate the nourishment it provides.
+1.  Emotional Resonance: Music can trigger specific emotional responses based on its melody, rhythm, and lyrics. For instance, upbeat, major-key music often induces feelings of happiness and optimism, while slower, minor-key music can evoke sadness or introspection.
 
-4.  Body Scan: Set aside a few minutes to do a body scan. Sit or lie down comfortably, then mentally check in with each part of your body from your toes to your head, noticing any tension or feelings without trying to change them.
+2.  Memory Association: Music is closely tied to our memories. Hearing a particular song can evoke powerful emotional memories, bringing back feelings of joy, nostalgia, or even sadness.
 
-5.  Gratitude Reflection: Take a moment to reflect on three things you are grateful for. Allow yourself to fully feel the gratitude and consider why these things matter to you.
+3.  Physiological Changes: Listening to music can trigger physiological changes in our bodies, such as changes in heart rate, blood pressure, and hormone levels. These changes can influence our emotional state.
 
-6.  Mindful Listening: When having a conversation, practice active listening. Focus completely on the person speaking, noticing their tone, body language, and emotions without planning your response while they talk.
+4.  Social Connection: Music can bring people together and create a sense of community. Sharing music with others can foster social bonds and improve our mood.
 
-7.  Everyday Tasks: Engage in routine activities, like washing dishes or brushing your teeth, with full attention. Notice the sensations, movements, and sounds involved in the task.
+In conclusion, sounds and songs influence vibes which significantly impact our mood. By understanding how sounds affect our emotions, we can use them to enhance our well-being and improve our awareness.
 
-> "Spending too much time planning, problem-solving, daydreaming, or thinking negative or random thoughts can be draining. It can also make you more likely to experience stress, anxiety and symptoms of depression. Practicing \[mindful moments] can help you direct your attention away from this kind of thinking and engage with the world around you."
->
-> *Mayo Clinic*
 
-Engaging in mindful moments requires that we are fully present without judgement. The ability to be wholly present is a skill that requires constant training. We often either overemphasize the past or attempt to project a future we believe and perceieve. When doing so, we allow our perceived judgement to influence the present moment. A truly mindful moment is an unfiltered experience with our immediate reality to better inform our awareness and consciousness.
