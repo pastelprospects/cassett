@@ -387,7 +387,7 @@ sections:
           User Since Early 2024
         image:
           url: /images/erica.jpeg
-          altText: Maria Walters
+          altText: Erica
           styles:
             self:
               borderRadius: full
