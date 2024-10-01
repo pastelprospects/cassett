@@ -26,7 +26,7 @@ bottomSections:
         tagline: Mindful Memos
         subtitle: A therapeutic audio-visual experience
         image:
-          url: /images/telus-logo.svg
+          url: /images/cassett.svg
           altText: Company logo
           styles:
             self:
