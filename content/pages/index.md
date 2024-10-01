@@ -646,7 +646,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Stay In TOuch
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
