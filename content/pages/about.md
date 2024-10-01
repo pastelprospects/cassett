@@ -17,7 +17,7 @@ sections:
       memoir. Flip the page and experience the multi-dimensionality of an
       enhanced audio-visual journaling experience.
     actions:
-      - label: See open positions
+      - label: View Demo
         url: /
         icon: arrowRight
         iconPosition: right
