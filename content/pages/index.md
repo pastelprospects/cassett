@@ -89,10 +89,9 @@ sections:
               borderRadius: x-large
       - title: Jukebox
         subtitle: Lo-Fi Tunes
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A selection of sounds and songs to match your mood. Whether you're
+          studying, working out, or just relaxing, there's a soundtrack for you.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
