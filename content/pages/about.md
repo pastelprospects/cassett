@@ -79,7 +79,7 @@ sections:
     subtitle: Join Our Team
     items:
       - title: Business Development Manager
-        subtitle: Sales
+        subtitle: Sales & Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
