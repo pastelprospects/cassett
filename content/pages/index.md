@@ -556,7 +556,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Your Spoken Language
         tagline: Companion
         subtitle: This is the item subtitle
         text: >
