@@ -10,7 +10,6 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/science-of-sounds.md
       - content/pages/blog/mindful-moments.md
       - content/pages/blog/consciousness.md
