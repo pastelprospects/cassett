@@ -120,10 +120,13 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The Senior Software Engineer will play a critical role in developing
+          and maintaining high-quality software solutions. This individual will
+          work collaborate with product managers, architects, and other
+          stakeholders to define and refine software requirements. They will
+          also provide technical leadership to deliver innovative and scalable
+          applications that meet the needs of consumers.
         colors: bg-neutral-fg-dark
         styles:
           self:
