@@ -176,7 +176,7 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/pastel.svg
         altText: Contentful logo
         type: ImageBlock
       - altText: Sanity logo
