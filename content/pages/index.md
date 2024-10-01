@@ -113,10 +113,9 @@ sections:
         type: FeaturedItem
       - title: Companion
         subtitle: Personalized Pal
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Good friends keep us accountable. Your AI assist is here to help you
+          keep account of your mindfulness journey.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
