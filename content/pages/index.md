@@ -31,7 +31,7 @@ sections:
         type: Link
     media:
       url: /images/cassett(logo).svg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
