@@ -78,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: Join Our Team
     items:
-      - title: Business Development Manager
+      - title: Business Development Lead
         subtitle: Sales & Marketing
         text: >
           The Business Development Lead will play a pivotal role in driving
