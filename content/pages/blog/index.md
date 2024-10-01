@@ -5,7 +5,7 @@ numOfPostsPerPage: 6
 enableSearch: true
 topSections:
   - title:
-      text: Featured Posts
+      text: Mindful Memos
       color: text-dark
       type: TitleBlock
     subtitle: Thought Pieces
