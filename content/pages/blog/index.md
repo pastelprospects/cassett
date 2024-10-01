@@ -12,6 +12,7 @@ topSections:
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/science-of-sounds.md
+      - content/pages/blog/mindful-moments.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
