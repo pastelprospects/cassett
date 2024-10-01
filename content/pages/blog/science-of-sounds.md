@@ -1,40 +1,41 @@
 ---
+type: PostLayout
 title: The Science of Sounds
-slug: science-of-sounds
-date: '2024-08-10'
-excerpt: ''
-featuredImage:
-  url: /images/daw.jpeg
-  altText: Case study 1
-  styles:
-    self:
-      borderRadius: large
-  type: ImageBlock
+date: '2024-09-28'
+excerpt: >-
+  Scientifically speaking, sound waves are a displacement of air molecules that
+  result from vibrations. Sounds influence our environment by dictating vibes.
+  The tricky part is that our mood tends to be contingent upon or, at the very
+  least, highly dependent vibes...
 bottomSections:
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - items:
-      - title: Cassett
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: FeaturedItemsSection
+    items:
+      - type: FeaturedItem
+        title: Cassett
         tagline: Mindful Memos
         subtitle: >-
           Flip the page and experience an enhanced audio-visual journaling
           experience
         image:
+          type: ImageBlock
           url: /images/cassett.svg
           altText: Company logo
           styles:
             self:
               margin:
                 - ml-3
-          type: ImageBlock
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -49,7 +50,7 @@ bottomSections:
             borderWidth: 0
             borderRadius: none
             flexDirection: row
-        type: FeaturedItem
+    actions: []
     variant: small-list
     colors: bg-light-fg-dark
     styles:
@@ -64,35 +65,28 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
+slug: science-of-sounds
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
-    padding:
-      - pt-5
-      - pl-5
-      - pb-5
-      - pr-5
-    textAlign: center
-    borderColor: border-light
-    borderStyle: none
-    borderWidth: 0
-    borderRadius: none
-    flexDirection: col
-type: PostLayout
+    flexDirection: row
+featuredImage:
+  type: ImageBlock
+  url: /images/daw.jpeg
+  altText: digital audio
+  elementId: ''
+  styles:
+    self:
+      borderRadius: medium
 ---
 Let's admit it: music moves us. Whether it's a catchy melody or lullaby, we can't avoid how sounds capture our attention. Sometimes sound is just noise. Oftentimes sound is literally music to our ears. If sounds impact the environment around us then why wouldn't they impact the environment within us?
 
 The science of sounds in layman's terms is acoustics, which is understood to be study of the physical properties of sound, its production, transmission, and perception. Our focus is primarily on perception. Our perception of sound, whether it be volume, tone, cadence etc., influences both our internal and external environments. The external is a bit more obvious because we often associate sounds with spaces. The internal is more difficult to tease out due to its interplay with the external.
 
-
-
 > *Our perception of sound, whether it be volume, tone, cadence etc., influences both our internal and external environments.*
 
-
-
-Scientifically speaking, sound waves are a displacement of air molecules that result from vibrations. Sounds influence our environment by dictating the vibe. The tricky part is that our mood tends to be contingent upon or, at the very least, highly depnedent on the vibe. Sounds, specifically songs, can impact our mood in the following ways:
+Scientifically speaking, sound waves are a displacement of air molecules that result from vibrations. Sounds influence our environment by dictating vibes. The tricky part is that our mood tends to be contingent upon or, at the very least, highly dependent vibes. Sounds, specifically songs, can impact our mood in the following ways:
 
 1.  Emotional Resonance: Music can trigger specific emotional responses based on its melody, rhythm, and lyrics. For instance, upbeat, major-key music often induces feelings of happiness and optimism, while slower, minor-key music can evoke sadness or introspection.
 
@@ -103,5 +97,3 @@ Scientifically speaking, sound waves are a displacement of air molecules that re
 4.  Social Connection: Music can bring people together and create a sense of community. Sharing music with others can foster social bonds and improve our mood.
 
 In conclusion, sounds and songs influence vibes which significantly impact our mood. By understanding how sounds affect our emotions, we can use them to enhance our well-being and improve our awareness.
-
-
