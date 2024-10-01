@@ -341,7 +341,7 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
+      - label: Discover More
         url: /
         icon: arrowRight
         iconPosition: right
