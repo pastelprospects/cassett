@@ -333,7 +333,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Additional Accountability
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
