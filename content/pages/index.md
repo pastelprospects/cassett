@@ -347,7 +347,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: View Demo
         url: /
         showIcon: true
         icon: arrowRight
