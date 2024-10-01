@@ -558,7 +558,7 @@ sections:
         type: FeaturedItem
       - title: Your Spoken Language
         tagline: Companion
-        subtitle: This is the item subtitle
+        subtitle: Personal Language Models
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
