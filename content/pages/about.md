@@ -100,10 +100,11 @@ sections:
         type: FeaturedItem
       - title: UI/UX Designer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The UI/UX Designer will play a crucial role in creating exceptional
+          user experiences for our users. This individual will be responsible
+          for designing intuitive, visually appealing, and user-friendly
+          interfaces that meet the needs of our target audience.
         colors: bg-neutral-fg-dark
         styles:
           self:
