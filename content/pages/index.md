@@ -512,6 +512,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    showExcerpt: true
   - title:
       text: Featured Highlights
       color: text-primary
