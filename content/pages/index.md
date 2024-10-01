@@ -300,7 +300,7 @@ sections:
       text: Personalized Playlists
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Music for Every Moment
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
