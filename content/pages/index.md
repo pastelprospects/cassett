@@ -494,7 +494,6 @@ sections:
           - pb-3
           - pr-3
   - posts:
-      - content/pages/blog/case-study-3.md
       - content/pages/blog/consciousness.md
     showThumbnail: true
     showDate: true
