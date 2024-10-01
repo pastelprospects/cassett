@@ -663,7 +663,6 @@ sections:
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
