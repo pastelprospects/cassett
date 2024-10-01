@@ -11,6 +11,7 @@ topSections:
     subtitle: This is the subtitle
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/science-of-sounds.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
