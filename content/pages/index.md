@@ -11,7 +11,7 @@ sections:
     text: |
       A therapeutic audio-visual experience.
     actions:
-      - label: Get started
+      - label: Join Waitlist
         altText: ''
         url: /
         showIcon: false
