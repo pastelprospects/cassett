@@ -8,7 +8,7 @@ topSections:
       text: Featured Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Thought Pieces
     posts:
       - content/pages/blog/science-of-sounds.md
       - content/pages/blog/mindful-moments.md
