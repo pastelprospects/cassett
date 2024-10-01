@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: The Science of Sounds
-date: '2024-09-14'
+date: '2024-09-28'
 excerpt: >-
   Engaging in mindful moments requires that we are fully present without
   judgement. The ability to be wholly present is a skill that requires constant
