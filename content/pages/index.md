@@ -441,7 +441,7 @@ sections:
           on my mood. Short walk? Long hike? Medium workout? Extended study
           session? Cassett always has the perfect background music to pair."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: June
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
