@@ -414,7 +414,7 @@ sections:
         text: |
           Development Beta User
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/mike.jpg
           altText: John Doe
           styles:
             self:
