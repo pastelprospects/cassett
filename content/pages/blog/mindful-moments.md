@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Making Mindful Moments
-date: '2021-08-25'
+date: '2024-09-25'
 author: content/data/person1.json
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
