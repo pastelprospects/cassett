@@ -305,7 +305,7 @@ sections:
       Our featured selection of songs and sounds are tailored for every mood and
       made to match every moment.
     actions:
-      - label: Get started
+      - label: Discover More
         url: /
         icon: arrowRight
         iconPosition: right
