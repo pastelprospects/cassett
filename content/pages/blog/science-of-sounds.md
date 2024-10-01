@@ -24,7 +24,9 @@ bottomSections:
   - items:
       - title: Cassett
         tagline: Mindful Memos
-        subtitle: A therapeutic audio-visual experience
+        subtitle: >-
+          Flip the page and experience an enhanced audio-visual journaling
+          experience
         image:
           url: /images/cassett.svg
           altText: Company logo
