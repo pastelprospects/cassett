@@ -302,8 +302,8 @@ sections:
       type: TitleBlock
     subtitle: Music for Every Moment
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our featured selection of songs and sounds are tailored for every mood and
+      made to match every moment.
     actions:
       - label: Get started
         url: /
