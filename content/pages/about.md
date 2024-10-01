@@ -78,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: Join Our Team
     items:
-      - title: Account Executive
+      - title: Business Development Manager
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
