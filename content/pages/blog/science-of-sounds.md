@@ -71,6 +71,14 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+featuredImage:
+  type: ImageBlock
+  url: /images/hero2.svg
+  altText: Image alt text placeholder
+  elementId: ''
+  styles:
+    self:
+      borderRadius: medium
 ---
 Let's admit it: music moves us. Whether it's a catchy melody or lullaby, we can't avoid how sounds capture our attention. Sometimes sound is just noise. Oftentimes sound is literally music to our ears. If sounds impact the environment around us then why wouldn't they impact the environment within us?
 
