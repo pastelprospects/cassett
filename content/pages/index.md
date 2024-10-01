@@ -378,6 +378,9 @@ sections:
       type: TitleBlock
       text: Customer Reviews
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: The Word Around Town
     items:
       - title: >-
