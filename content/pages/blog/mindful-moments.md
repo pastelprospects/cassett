@@ -5,7 +5,7 @@ date: '2024-09-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature2.svg
+  url: /images/meditate.jpeg
   altText: Thumbnail
   styles:
     self:
