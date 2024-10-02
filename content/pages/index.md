@@ -383,7 +383,10 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 1
-        subtitle: Erica
+        subtitle: >-
+          “I could never find the exact words to describe how I felt before
+          Cassett. It's liberating to not have to rely on the structure of
+          written language to get a thought out.”
         text: |
           User Since Early 2024
         image:
