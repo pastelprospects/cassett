@@ -18,6 +18,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/boho sunset.png
