@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Thank you for patiently waiting
       color: text-dark
-    subtitle: Thank you for Patiently Waiting
+    subtitle: Join Our Waitlist
     text: >
       We want to ensure the best experience possible for you. The wait is nearly
       over.
