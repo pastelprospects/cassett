@@ -243,6 +243,7 @@ sections:
           borderColor: border-primary
           margin:
             - ml-9
+            - mr-8
   - type: GenericSection
     title:
       text: Express Yourself
@@ -288,13 +289,13 @@ sections:
       made to match every moment.
     actions:
       - label: Discover More
-        url: /
+        url: /features
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
       - label: View Demo
-        url: /
+        url: /demo
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -329,13 +330,13 @@ sections:
       With AI assist, your mindfulness journey is tailored specifically for you.
     actions:
       - label: Discover More
-        url: /
+        url: /features
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
       - label: View Demo
-        url: /
+        url: /demo
         showIcon: true
         icon: arrowRight
         iconPosition: right
