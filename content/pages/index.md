@@ -22,7 +22,7 @@ sections:
         type: Button
       - label: View Demo
         altText: ''
-        url: /
+        url: /demo
         showIcon: true
         icon: arrowRight
         iconPosition: right
