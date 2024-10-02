@@ -390,7 +390,7 @@ sections:
         text: |
           User Since Early 2024
         image:
-          url: /images/erica.jpeg
+          url: /images/erica.jpg
           altText: Erica
           styles:
             self:
