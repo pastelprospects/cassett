@@ -344,6 +344,7 @@ sections:
         self:
           margin:
             - ml-6
+            - mr-6
     badge:
       label: Companion
       color: text-primary
