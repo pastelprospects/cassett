@@ -26,8 +26,8 @@ sections:
       and use the Services. By accessing and using the Services, you acknowledge
       that you have read, understood, and agree to be bound by the terms of this
       Agreement. You acknowledge that this Agreement is a contract between you
-      and Cassett LLC,, even though it is electronic and is not physically
-      signed by you, and it governs your use of the Services.
+      and Cassett LLC, even though it is electronic and is not physically signed
+      by you, and it governs your use of the Services.
 
 
       ### **Accounts and Membership**
