@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Thank you for patiently waiting
       color: text-dark
     subtitle: Thank you for patiently waiting
     text: >
