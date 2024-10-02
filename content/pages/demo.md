@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Features
+title: Demo
 sections:
   - type: GenericSection
     title:
