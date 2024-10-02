@@ -29,7 +29,6 @@ sections:
 
         features:
           - Feature two
-          - Feature three
           - Feature four
         image:
           url: /images/abstract-feature1.svg
