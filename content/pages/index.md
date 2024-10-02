@@ -272,7 +272,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: medium
+          borderRadius: xx-large
   - title:
       text: Personalized Playlists
       color: text-dark
