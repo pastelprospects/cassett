@@ -3,10 +3,10 @@ type: PostLayout
 title: Making Mindful Moments
 date: '2024-09-14'
 excerpt: >-
-  Engaging in mindful moments requires that we are fully present without
+  "Engaging in mindful moments requires that we are fully present without
   judgement. The ability to be wholly present is a skill that requires constant
   training. We often either overemphasize the past or attempt to project a
-  future we believe and perceive...
+  future we believe and perceive..."
 featuredImage:
   type: ImageBlock
   url: /images/meditate.jpeg
