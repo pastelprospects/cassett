@@ -16,6 +16,9 @@ export default function DefaultBaseLayout(props) {
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} {...(enableAnnotations && { 'data-sb-object-id': pageMeta.id })}>
             <div className="sb-base sb-default-base-layout">
                 <Head>
+                    {/* <!-- Start cookieyes banner --> */}
+                    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/def65fd35e3d2a37aaea8c55/script.js"></script>
+                    {/* <!-- End cookieyes banner --> */}
                     <title>{title}</title>
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
