@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Demo",
-                    "url": "/",
+                    "url": "/demo",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
