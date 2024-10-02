@@ -20,7 +20,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/boho sunset.png
       altText: ''
     colors: bg-light-fg-dark
     styles:
