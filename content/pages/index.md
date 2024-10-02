@@ -275,6 +275,7 @@ sections:
           borderRadius: xx-large
           margin:
             - ml-3
+            - mr-3
   - title:
       text: Personalized Playlists
       color: text-dark
