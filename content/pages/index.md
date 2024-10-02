@@ -381,10 +381,7 @@ sections:
           textAlign: center
     subtitle: The Word Around Town
     items:
-      - title: >-
-          “I could never find the exact words to describe how I felt before
-          Cassett. It's liberating to not have to rely on the structure of
-          written language to get a thought out.”
+      - title: ''
         tagline: Testimonial 1
         subtitle: Erica
         text: |
