@@ -3,10 +3,10 @@ type: PostLayout
 title: The Science of Sounds
 date: '2024-09-28'
 excerpt: >-
-  Scientifically speaking, sound waves are a displacement of air molecules that
+  "Scientifically speaking, sound waves are a displacement of air molecules that
   result from vibrations. Sounds influence our environment by dictating vibes.
   The tricky part is that our mood tends to be contingent upon or, at the very
-  least, highly dependent on vibes...
+  least, highly dependent on vibes..."
 bottomSections:
   - type: DividerSection
     title: Divider
