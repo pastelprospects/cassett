@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Join Waitlist
         altText: ''
-        url: /
+        url: /waitlist
         showIcon: false
         icon: arrowRight
         iconPosition: right
