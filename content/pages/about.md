@@ -1,24 +1,24 @@
 ---
-title: Careers
-slug: careers
+title: About
+slug: about
 sections:
   - title:
-      text: A team that works closely together
+      text: Cassett
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: A therapeutic audio-visual experience
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      A memoir is meant to be personal. Your expression of self is meant to be
+      limitless. Pairing both of these concepts together, Cassett promises a
+      truly personalized experience without the inherent limitations of a
+      memoir. Flip the page and experience the multi-dimensionality of an
+      enhanced audio-visual journaling experience.
     actions:
-      - label: See open positions
-        url: /
+      - label: View Demo
+        url: /demo
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -47,8 +47,15 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
-      text: Meet the team
+      text: Team
       color: text-dark
       styles:
         self:
@@ -56,11 +63,6 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -75,20 +77,21 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Open Positions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Join Our Team
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Business Development Lead
+        subtitle: Sales & Marketing
+        text: >
+          The Business Development Lead will play a pivotal role in driving
+          go-to-market activities. This individual will be responsible for
+          developing and executing effective sales and marketing strategies to
+          attract users and promote the company's products or services.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,12 +105,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: UI/UX Designer
+        subtitle: Engineering
+        text: >
+          The UI/UX Designer will play a crucial role in creating exceptional
+          user experiences for our users. This individual will be responsible
+          for designing intuitive, visually appealing, and user-friendly
+          interfaces that meet the needs of our target audience.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -123,10 +127,13 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The Senior Software Engineer will play a critical role in developing
+          and maintaining high-quality software solutions. This individual will
+          work collaborate with product managers, architects, and other
+          stakeholders to define and refine software requirements. They will
+          also provide technical leadership to deliver innovative and scalable
+          applications that meet the needs of consumers.
         colors: bg-neutral-fg-dark
         styles:
           self:
