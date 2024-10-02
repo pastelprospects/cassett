@@ -418,6 +418,8 @@ sections:
           understand me, and it took some time, but it does now. Cassett helped
           me find my voice."
         text: |
+          ### **Mike**
+
           Development Beta User
         image:
           url: /images/mike.jpg
