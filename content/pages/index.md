@@ -240,7 +240,7 @@ sections:
       styles:
         self:
           borderRadius: x-large
-          borderColor: border-dark
+          borderColor: border-primary
   - type: GenericSection
     title:
       text: Express Yourself
