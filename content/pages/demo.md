@@ -22,6 +22,9 @@ sections:
       type: ImageBlock
       url: /images/boho sunset.png
       altText: ''
+      styles:
+        self:
+          borderRadius: xx-large
     colors: bg-light-fg-dark
     styles:
       self:
