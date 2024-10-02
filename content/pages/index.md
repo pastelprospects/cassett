@@ -235,7 +235,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/overview.png
-      altText: Image alt text placeholder
+      altText: overview
       elementId: ''
       styles:
         self:
