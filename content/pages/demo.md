@@ -19,7 +19,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Send
+        label: Return Home
         altText: Send
         url: /
         showIcon: true
