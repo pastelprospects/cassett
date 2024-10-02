@@ -21,7 +21,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: ''
     colors: bg-light-fg-dark
     styles:
       self:
