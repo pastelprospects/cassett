@@ -340,6 +340,10 @@ sections:
       url: /images/companion.png
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          margin:
+            - ml-6
     badge:
       label: Companion
       color: text-primary
