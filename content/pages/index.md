@@ -268,7 +268,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/memoir.png
-      altText: Image alt text placeholder
+      altText: memoir
       elementId: ''
       styles:
         self:
