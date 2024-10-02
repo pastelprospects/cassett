@@ -46,9 +46,22 @@ sections:
       - title: Core
         price: $7.99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Additional jukebox capabilities allow you to pick your soundtrack from
+          a much more comprehensive selection of tunes.
+
+
+          *   Personalized audio-visual memoir
+
+
+          *   Mindful moments for reflection
+
+
+          *   Enhanced selection of songs and sounds
+
+
+          *   Include music elements in your relflections
+
         features:
           - Feature four
         image:
