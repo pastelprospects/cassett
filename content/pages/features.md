@@ -18,10 +18,20 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        label: Return Home
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     media:
       type: ImageBlock
       url: /images/boho sunset.png
       altText: ''
+      styles:
+        self:
+          borderRadius: x-large
     colors: bg-light-fg-dark
     styles:
       self:
@@ -68,6 +78,8 @@ sections:
             borderWidth: 0
             borderRadius: none
             flexDirection: row
+        text: |
+          [Read More ](/blog)→
     actions: []
     variant: small-list
     colors: bg-light-fg-dark
