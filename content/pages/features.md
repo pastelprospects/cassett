@@ -19,7 +19,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: View Demo
+        label: Return Home
         url: /
         showIcon: true
         icon: arrowRight
