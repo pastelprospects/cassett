@@ -410,11 +410,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "I'm bought into revisitng personal conversations as a form of
-          productive self reflection. I initially didn't expect AI assist to
-          understand me, and it took some time, but it does now. Cassett helped
-          me find my voice."
+      - title: ''
         tagline: Testimonial 2
         subtitle: Mike
         text: |
