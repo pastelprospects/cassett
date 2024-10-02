@@ -239,7 +239,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: full
           borderColor: border-primary
           margin:
             - ml-9
