@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Features",
-                    "url": "/",
+                    "url": "/features",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
