@@ -14,9 +14,19 @@ sections:
       - title: Lite
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Try our enhanced memoir, featuring audio-visual capabilities, to help
+          you fully express yourself.
+
+
+          *   Audio-visual memoir
+
+
+          *   Mindful moments for reflection
+
+
+          *   Mood-specific selection of songs and sounds
+
         features:
           - Feature one
           - Feature two
