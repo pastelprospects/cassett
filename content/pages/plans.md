@@ -110,7 +110,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
