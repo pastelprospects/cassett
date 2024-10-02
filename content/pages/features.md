@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Thank you for patiently waiting
+      text: Thank you for Patiently Waiting
       color: text-dark
     subtitle: Join Our Waitlist
     text: >
