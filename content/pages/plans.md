@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Options To Meet Your Needs
     plans:
-      - title: Developers
+      - title: Lite
         price: Free
         details: No credit card required
         description: >-
