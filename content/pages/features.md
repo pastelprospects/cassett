@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Join Waitlist
-        url: /
+        url: /waitlist
         icon: arrowRight
         iconPosition: right
         style: secondary
