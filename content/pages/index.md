@@ -239,7 +239,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: medium
+          borderRadius: xx-large
   - type: GenericSection
     title:
       text: Express Yourself
