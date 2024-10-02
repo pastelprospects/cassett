@@ -274,7 +274,7 @@ sections:
         self:
           borderRadius: xx-large
           margin:
-            - ml-3
+            - ml-6
             - mr-3
   - title:
       text: Personalized Playlists
