@@ -1,6 +1,6 @@
 ---
 title: Plans
-slug: pricing
+slug: plans
 sections:
   - title:
       text: Flexible Pricing
