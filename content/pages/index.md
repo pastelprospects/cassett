@@ -440,7 +440,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Testimonial 3
+      - title: June
         tagline: Testimonial 3
         subtitle: >-
           "My favorite part is just zoning out to personalized playlists based
