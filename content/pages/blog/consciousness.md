@@ -3,10 +3,10 @@ type: PostLayout
 title: Nurturing Consciousness
 date: '2024-10-26'
 excerpt: >-
-  In simple terms, consciousness is everything perceived. The complicated part
+  "In simple terms, consciousness is everything perceived. The complicated part
   is that perspective doesn't remain constant. Imagine walking through a museum.
   As you move closer towards and further away from each exhibit your perception
-  is altered...
+  is altered..."
 featuredImage:
   type: ImageBlock
   url: /images/synapse.jpeg
@@ -78,6 +78,11 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    padding:
+      - pt-3
+      - pl-3
+      - pb-3
+      - pr-3
 ---
 > *"In simple terms, consciousness is everything perceived"*
 

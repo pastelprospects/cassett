@@ -1,18 +1,29 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/cassett2.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Plans",
+            "url": "/plans",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "About",
+            "altText": "",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -28,20 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
+            "label": "Menu",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Features",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,15 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
+                    "label": "Demo",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -71,7 +65,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Sign Up",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
@@ -80,7 +74,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Log In",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",

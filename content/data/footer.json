@@ -1,16 +1,16 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/cassett2.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "A therapeutic audio-visual experience\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
                 "label": "Features",
-                "altText": "Features page",
+                "altText": "features",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,20 +18,13 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Demo",
+                "url": "/demo",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "demo"
             }
         ],
         "type": "FooterLinksGroup"
@@ -40,9 +33,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "About",
+                "altText": "about",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -54,30 +47,13 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "blog"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
         {
             "altText": "Email link",
             "url": "/",
@@ -87,7 +63,7 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Terms & Conditions",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,7 +71,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Privacy Policy",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -103,7 +79,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "© 2024 Casett LLC, All Rights Reserved\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

@@ -4,27 +4,25 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Cassett
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Monologue Memoir
+    text: |
+      A therapeutic, audio-visual journaling experience.
     actions:
-      - label: Get started
+      - label: Join Waitlist
         altText: ''
-        url: /
+        url: /waitlist
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: View Demo
         altText: ''
-        url: /
+        url: /demo
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,12 +30,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/cassett(logo).svg
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: On-Going Development
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +51,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Features
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Fully Immersive, Mindful Moments'
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Memoir
+        subtitle: Voice Memos
+        text: >
+          Reimagine the journaling experience. In addition to jotting down your
+          thoughts, express yourself through speech and much more.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +87,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Jukebox
+        subtitle: Lo-Fi Tunes
+        text: >
+          A selection of sounds and songs to match your mood. Whether you're
+          studying, working out, or just relaxing, there's a soundtrack for you.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +111,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Companion
+        subtitle: Personalized Pal
+        text: >
+          Good friends keep us accountable. Your AI assist is here to help you
+          keep account of your mindfulness journey.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +134,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Learn More
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Highlight
       color: text-primary
       styles:
         self:
@@ -168,28 +163,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Trustworthy Tools
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/cassett1.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/dele.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/takecharge.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/pastel.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -199,25 +191,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,38 +202,21 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Introducing a More Capable Journal
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: The Audio-Visual Memoir
+    text: >+
+      <div style="text-align: center">Cassett is more than a journal, it's your
+      unrestricted, personal memoir. You're encouraged to engage with the
+      platform, authentically and organically, through text, touch, and speech.
+      Your memoir is your space for genuine expression; we also included a
+      jukebox, in case you need some theme music, and a personalized companion,
+      to keep you accountable.</div>
+
     badge:
       label: Key Benefits
       color: text-primary
@@ -276,41 +232,34 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    media:
+      type: ImageBlock
+      url: /images/overview1.png
+      altText: overview
+      elementId: ''
+      styles:
+        self:
+          borderRadius: xx-large
+          borderColor: border-primary
+          margin:
+            - ml-8
+            - mr-8
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Express Yourself
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Speak Your Truth
+    text: >
+      There's something so concise and structured about the typical journal
+      entry that forces us into rote methodology. Expression shouldn't be
+      limited by structure. An audio-visual experience allows you to speak, rap,
+      draw and much more. With Cassett, you're able to fully express yourself,
+      without limitation.
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -319,69 +268,51 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
+      altText: memoir
+      elementId: ''
+      styles:
+        self:
+          borderRadius: xx-large
+          margin:
+            - ml-6
+            - mr-6
+      url: /images/memoir.png
   - title:
-      text: Business Consulting
+      text: Personalized Playlists
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Music for Every Moment
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our featured selection of songs and sounds are tailored for every mood and
+      made to match every moment.
     actions:
-      - label: Get started
-        url: /
+      - label: Discover More
+        url: /features
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: View Demo
+        url: /demo
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/jukebox.png
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: xx-large
+          margin:
+            - ml-6
+            - mr-6
     badge:
-      label: This is a badge
+      label: Jukebox
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -389,6 +320,46 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    type: GenericSection
+  - title:
+      text: Additional Accountability
+      color: text-dark
+      type: TitleBlock
+    subtitle: Your Mindful Assist
+    text: |
+      With AI assist, your mindfulness journey is tailored specifically for you.
+    actions:
+      - label: Discover More
+        url: /features
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: View Demo
+        url: /demo
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/companion.png
+      altText: Fun feature preview
+      type: ImageBlock
+      styles:
+        self:
+          margin:
+            - ml-6
+            - mr-6
+          borderRadius: xx-large
+    badge:
+      label: Companion
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -401,21 +372,26 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
+    title:
+      type: TitleBlock
+      text: Customer Reviews
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: The Word Around Town
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I could never find the exact words to describe how I felt before
+          Cassett. It's liberating to not have to rely on the structure of
+          written language to get a thought out.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Erica
+        text: |
+          User Since Early 2024
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/erica.jpeg
+          altText: Erica
           styles:
             self:
               borderRadius: full
@@ -435,16 +411,17 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "I'm bought into revisitng personal conversations as a form of
+          productive self reflection. I initially didn't expect AI assist to
+          understand me, and it took some time, but it does now. Cassett helped
+          me find my voice."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Mike
+        text: |
+          Development Beta User
         image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
+          url: /images/mike.jpg
+          altText: Mike
           styles:
             self:
               borderRadius: full
@@ -464,110 +441,22 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "My favorite part is just zoning out to personalized playlists based
+          on my mood. Short walk? Long hike? Medium workout? Extended study
+          session? Cassett always has the perfect background music to pair."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: June
+        text: |
+          Recent User
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/june.jpg
+          altText: June
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -588,20 +477,68 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - posts:
+      - content/pages/blog/science-of-sounds.md
+      - content/pages/blog/mindful-moments.md
+      - content/pages/blog/consciousness.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    showExcerpt: false
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    actions:
+      - type: Button
+        label: Read More
+        altText: ''
+        url: blog/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title:
-      text: List of features here
+      text: Featured Highlights
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: No Spotlight Necessary
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Vocal Clarity
+        tagline: Memoir
+        subtitle: Speak Up
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Your voice is always heard.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -620,11 +557,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Take the Plunge
+        tagline: Jukebox
+        subtitle: High Vibrational Activities
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Dig deeper to feel your vibe.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -643,11 +580,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Your Spoken Language
+        tagline: Companion
+        subtitle: Personal Language Models
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Communication based entirely on your unfiltered reflection.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -680,15 +617,13 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Mindful Memos
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Join Our Mailing List
+    text: >
+      Subscribe to our mailing list to stay up-to-date on the latest
+      developments!
     media:
       fields:
         - name: name
@@ -733,15 +668,14 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Stay In TOuch
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Cassett - Monologue Memoir
+  metaDescription: A therapeutic audio-visual experience.
   type: Seo
 type: PageLayout
 ---
