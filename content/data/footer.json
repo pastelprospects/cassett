@@ -72,7 +72,7 @@
         },
         {
             "label": "Privacy Policy",
-            "url": "/privacy-policy",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
