@@ -146,7 +146,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Get In Touch
         url: /
         icon: arrowRight
         iconPosition: right
