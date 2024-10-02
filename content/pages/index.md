@@ -242,7 +242,7 @@ sections:
           borderRadius: xx-large
           borderColor: border-primary
           margin:
-            - ml-8
+            - ml-2
             - mr-8
   - type: GenericSection
     title:
