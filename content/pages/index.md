@@ -305,6 +305,8 @@ sections:
       styles:
         self:
           borderRadius: xx-large
+          margin:
+            - ml-6
     badge:
       label: Jukebox
       color: text-primary
