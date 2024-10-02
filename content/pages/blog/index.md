@@ -1,16 +1,18 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 12
-enableSearch: true
+numOfPostsPerPage: 6
+enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Mindful Memos
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Featured Posts
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/science-of-sounds.md
+      - content/pages/blog/mindful-moments.md
+      - content/pages/blog/consciousness.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
