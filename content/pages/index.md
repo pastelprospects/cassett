@@ -241,6 +241,8 @@ sections:
         self:
           borderRadius: x-large
           borderColor: border-primary
+          margin:
+            - ml-9
   - type: GenericSection
     title:
       text: Express Yourself
