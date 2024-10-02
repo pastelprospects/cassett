@@ -299,7 +299,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/jukebox.png
+      url: /images/abstract-feature1.svg
       altText: Dope design preview
       type: ImageBlock
       styles:
