@@ -28,7 +28,6 @@ sections:
           *   Mood-specific selection of songs and sounds
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
