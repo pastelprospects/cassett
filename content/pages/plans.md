@@ -81,9 +81,19 @@ sections:
       - title: Plus
         price: $14.99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |+
+          Unlock companion and experience even more personalization with AI.
+
+          *   Personalized audio-visual memoir
+
+          *   Mindful moments for reflection
+
+          *   Enhanced selection of songs and sounds
+
+          *   Include music elements in your relflections
+
+          *   Personalized AI-assisted responses and prompts
+
         features: []
         image:
           url: /images/abstract-feature3.svg
