@@ -3,7 +3,7 @@ title: Plans
 slug: plans
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Plans
       color: text-dark
       styles:
         self:
