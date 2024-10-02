@@ -1,7 +1,7 @@
 {
     "favicon": "/images/cassett(logo).svg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "",
     "type": "Config",
     "header": "content/data/header.json"
 }
