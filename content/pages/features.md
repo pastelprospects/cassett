@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Join Our Waitlist
     text: >
-      We want to ensure the best experience possible for you. The wait is nearly
-      over.
+      We want to ensure the best experience possible for you. Sign-up to our
+      waitlist and stay tuned for updates.
     actions:
       - type: Button
         label: Get started
