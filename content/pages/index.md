@@ -307,6 +307,7 @@ sections:
           borderRadius: xx-large
           margin:
             - ml-6
+            - mr-6
     badge:
       label: Jukebox
       color: text-primary
