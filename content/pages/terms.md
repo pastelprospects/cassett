@@ -30,7 +30,7 @@ sections:
       signed by you, and it governs your use of the Services.
 
 
-      **Accounts and Membership**
+      ## **Accounts and Membership**
 
 
       You must be at least 16 years of age to use the Services. By using the
@@ -56,7 +56,7 @@ sections:
       protocol address to prevent further registration.
 
 
-      **Links to Other Resources**
+      ## **Links to Other Resources**
 
 
       Although the Services may link to other resources (such as websites,
@@ -72,7 +72,7 @@ sections:
       linking to any other off-site resources is at your own risk.
 
 
-      **Prohibited Uses**
+      ## **Prohibited Uses**
 
 
       In addition to other terms as set forth in the Agreement, you are
@@ -95,7 +95,7 @@ sections:
       violating any of the prohibited uses.
 
 
-      **Intellectual Property Rights**
+      ## **Intellectual Property Rights**
 
 
       “Intellectual Property Rights” means all present and future rights
@@ -119,7 +119,7 @@ sections:
       otherwise use any of Cassett LLC, or third party trademarks.
 
 
-      **Indemnification**
+      ## **Indemnification**
 
 
       You agree to indemnify and hold Cassett LLC, and its affiliates,
@@ -131,7 +131,7 @@ sections:
       your use of the Services or any willful misconduct on your part.
 
 
-      **Severability**
+      ## **Severability**
 
 
       All rights and restrictions contained in this Agreement may be exercised
@@ -146,7 +146,7 @@ sections:
       provisions or portions thereof shall remain in full force and effect.
 
 
-      **Dispute Resolution**
+      ## **Dispute Resolution**
 
 
       The formation, interpretation, and performance of this Agreement and any
@@ -162,7 +162,7 @@ sections:
       Agreement.
 
 
-      **Changes and Amendments**
+      ## **Changes and Amendments**
 
 
       We reserve the right to modify this Agreement or its terms related to the
@@ -179,16 +179,13 @@ sections:
       consent to those changes.
 
 
-      **Acceptance of These Terms**
+      ## **Acceptance of These Terms**
 
 
       You acknowledge that you have read this Agreement and agree to all its
       terms and conditions. By accessing and using the Services you agree to be
       bound by this Agreement. If you do not agree to abide by the terms of this
-      Agreement, you are not authorized to access or use the Services. This
-      policy has been created with the help of the terms and conditions
-      generator
-      (https\://www\.websitepolicies.com/terms-and-conditions-generator).
+      Agreement, you are not authorized to access or use the Services.
 
 
       **Contacting Us**
@@ -198,7 +195,7 @@ sections:
       Agreement, we encourage you to contact us using the details below:
 
 
-      support\@cassett.io
+      <support@cassett.io>
 
 
       This document was last updated on October 2, 2024
