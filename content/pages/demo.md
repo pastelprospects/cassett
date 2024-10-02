@@ -18,6 +18,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        label: Send
+        altText: Send
+        url: /
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/boho sunset.png
