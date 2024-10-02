@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Thank you for patiently waiting
       color: text-dark
-    subtitle: Thank you for patiently waiting
+    subtitle: Thank you for Patiently Waiting
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
