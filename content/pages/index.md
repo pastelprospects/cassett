@@ -243,7 +243,7 @@ sections:
           borderColor: border-primary
           margin:
             - ml-2
-            - mr-8
+            - mr-2
   - type: GenericSection
     title:
       text: Express Yourself
