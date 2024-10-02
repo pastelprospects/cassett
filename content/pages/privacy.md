@@ -20,7 +20,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: privacy-policy
+slug: privacy
 isDraft: false
 seo:
   type: Seo
