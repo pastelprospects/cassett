@@ -79,7 +79,7 @@ sections:
             borderRadius: none
             flexDirection: row
         text: |
-          [Read More](/blog)
+          [Read More ](/blog)→
     actions: []
     variant: small-list
     colors: bg-light-fg-dark
