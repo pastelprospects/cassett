@@ -345,6 +345,7 @@ sections:
           margin:
             - ml-6
             - mr-6
+          borderRadius: xx-large
     badge:
       label: Companion
       color: text-primary
