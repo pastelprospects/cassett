@@ -270,7 +270,6 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/memoir.png
       altText: memoir
       elementId: ''
       styles:
