@@ -388,6 +388,8 @@ sections:
           Cassett. It's liberating to not have to rely on the structure of
           written language to get a thought out.”
         text: |
+          ### **Erica**
+
           User Since Early 2024
         image:
           url: /images/erica.jpg
