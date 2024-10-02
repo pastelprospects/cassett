@@ -78,14 +78,7 @@ sections:
             borderWidth: 0
             borderRadius: none
             flexDirection: row
-    actions:
-      - type: Link
-        label: View Demo
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: small-list
     colors: bg-light-fg-dark
     styles:
