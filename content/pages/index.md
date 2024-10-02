@@ -234,7 +234,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/overview.png
+      url: /images/overview1.png
       altText: overview
       elementId: ''
       styles:
