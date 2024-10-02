@@ -302,6 +302,9 @@ sections:
       url: /images/jukebox.png
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: xx-large
     badge:
       label: Jukebox
       color: text-primary
