@@ -62,8 +62,7 @@ sections:
 
           *   Include music elements in your relflections
 
-        features:
-          - Feature four
+        features: []
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
