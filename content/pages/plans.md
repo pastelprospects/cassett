@@ -84,8 +84,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature five
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
