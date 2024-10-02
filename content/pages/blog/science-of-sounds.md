@@ -71,6 +71,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    padding:
+      - pt-1
 featuredImage:
   type: ImageBlock
   url: /images/daw.jpeg
