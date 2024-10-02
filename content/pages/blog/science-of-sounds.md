@@ -72,10 +72,10 @@ styles:
   self:
     flexDirection: row
     padding:
-      - pt-2
-      - pl-2
-      - pb-2
-      - pr-2
+      - pt-3
+      - pl-3
+      - pb-3
+      - pr-3
 featuredImage:
   type: ImageBlock
   url: /images/daw.jpeg
