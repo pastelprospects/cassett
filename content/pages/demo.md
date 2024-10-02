@@ -24,7 +24,7 @@ sections:
       altText: ''
       styles:
         self:
-          borderRadius: xx-large
+          borderRadius: x-large
     colors: bg-light-fg-dark
     styles:
       self:
