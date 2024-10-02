@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Thank you for Patiently Waiting
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We want to ensure the best experience possible for you. The wait is nearly
+      over.
     actions:
       - type: Button
         label: Get started
