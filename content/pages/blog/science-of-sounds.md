@@ -74,6 +74,7 @@ styles:
     padding:
       - pt-1
       - pl-1
+      - pb-1
 featuredImage:
   type: ImageBlock
   url: /images/daw.jpeg
