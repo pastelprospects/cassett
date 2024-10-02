@@ -278,6 +278,7 @@ sections:
           margin:
             - ml-6
             - mr-6
+      url: /images/memoir.png
   - title:
       text: Personalized Playlists
       color: text-dark
