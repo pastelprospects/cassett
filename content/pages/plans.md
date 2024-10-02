@@ -27,8 +27,7 @@ sections:
 
           *   Mood-specific selection of songs and sounds
 
-        features:
-          - Feature four
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
