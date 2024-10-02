@@ -242,8 +242,8 @@ sections:
           borderRadius: xx-large
           borderColor: border-primary
           margin:
-            - ml-8
-            - mr-8
+            - ml-2
+            - mr-2
   - type: GenericSection
     title:
       text: Express Yourself
@@ -381,16 +381,18 @@ sections:
           textAlign: center
     subtitle: The Word Around Town
     items:
-      - title: >-
+      - title: ''
+        tagline: Testimonial 1
+        subtitle: >-
           “I could never find the exact words to describe how I felt before
           Cassett. It's liberating to not have to rely on the structure of
           written language to get a thought out.”
-        tagline: Testimonial 1
-        subtitle: Erica
         text: |
+          ### **Erica**
+
           User Since Early 2024
         image:
-          url: /images/erica.jpeg
+          url: /images/erica.jpg
           altText: Erica
           styles:
             self:
@@ -410,14 +412,16 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
+      - title: ''
+        tagline: Testimonial 2
+        subtitle: >-
           "I'm bought into revisitng personal conversations as a form of
           productive self reflection. I initially didn't expect AI assist to
           understand me, and it took some time, but it does now. Cassett helped
           me find my voice."
-        tagline: Testimonial 2
-        subtitle: Mike
         text: |
+          ### **Mike**
+
           Development Beta User
         image:
           url: /images/mike.jpg
@@ -440,13 +444,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
+      - title: ''
+        tagline: Testimonial 3
+        subtitle: >-
           "My favorite part is just zoning out to personalized playlists based
           on my mood. Short walk? Long hike? Medium workout? Extended study
           session? Cassett always has the perfect background music to pair."
-        tagline: Testimonial 3
-        subtitle: June
         text: |
+          ### **June**
+
           Recent User
         image:
           url: /images/june.jpg
