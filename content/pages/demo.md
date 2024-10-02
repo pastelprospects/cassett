@@ -18,6 +18,13 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        label: View Demo
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     media:
       type: ImageBlock
       url: /images/boho sunset.png
