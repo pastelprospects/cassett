@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Privacy Policy
+      text: Terms & Conditions
       color: text-dark
       styles:
         self:
