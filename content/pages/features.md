@@ -13,7 +13,7 @@ sections:
       waitlist and stay tuned for updates.
     actions:
       - type: Button
-        label: Get started
+        label: Join Waitlist
         url: /
         icon: arrowRight
         iconPosition: right
