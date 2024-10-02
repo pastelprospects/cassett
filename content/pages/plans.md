@@ -28,7 +28,6 @@ sections:
           *   Mood-specific selection of songs and sounds
 
         features:
-          - Feature two
           - Feature four
         image:
           url: /images/abstract-feature1.svg
