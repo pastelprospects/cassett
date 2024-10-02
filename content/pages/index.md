@@ -447,7 +447,7 @@ sections:
           on my mood. Short walk? Long hike? Medium workout? Extended study
           session? Cassett always has the perfect background music to pair."
         text: |
-          ## **June** 
+          ### **June**
 
           Recent User
         image:
