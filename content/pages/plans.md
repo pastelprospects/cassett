@@ -1,38 +1,38 @@
 ---
-title: Pricing
-slug: pricing
+title: Plans
+slug: plans
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Plans
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Options To Meet Your Needs
     plans:
-      - title: Developers
+      - title: Lite
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: >+
+          Try our enhanced memoir, featuring audio-visual capabilities, to help
+          you fully express yourself.
+
+
+          *   Audio-visual memoir
+
+
+          *   Mindful moments for reflection
+
+
+          *   Mood-specific selection of songs and sounds
+
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -43,28 +43,31 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
+      - title: Core
+        price: $7.99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: >+
+          Additional jukebox capabilities allow you to pick your soundtrack from
+          a much more comprehensive selection of tunes.
+
+
+          *   Personalized audio-visual memoir
+
+
+          *   Mindful moments for reflection
+
+
+          *   Enhanced selection of songs and sounds
+
+
+          *   Include music elements in your relflections
+
+        features: []
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -75,29 +78,28 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
+      - title: Plus
+        price: $14.99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+        description: |+
+          Unlock companion and experience even more personalization with AI.
+
+          *   Personalized audio-visual memoir
+
+          *   Mindful moments for reflection
+
+          *   Enhanced selection of songs and sounds
+
+          *   Include music elements in your relflections
+
+          *   Personalized AI-assisted responses and prompts
+
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
