@@ -102,6 +102,5 @@ seo:
   metaTitle: Features
   metaDescription: ''
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
