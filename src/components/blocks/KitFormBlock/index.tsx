@@ -1,7 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 
-export default function KitFormBox() {
+export default function KitFormBlock() {
   return (
         <div
             className={classNames(
