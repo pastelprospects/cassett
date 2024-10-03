@@ -674,7 +674,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Stay In TOuch
+      label: Stay In Touch
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
