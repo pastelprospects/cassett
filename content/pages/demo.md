@@ -97,4 +97,6 @@ sections:
         textAlign: center
 slug: demo
 isDraft: false
+seo:
+  type: Seo
 ---
