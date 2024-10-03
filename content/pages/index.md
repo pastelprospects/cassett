@@ -627,9 +627,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join Our Mailing List
-    text: >
-      Subscribe to our mailing list to stay up-to-date on the latest
-      developments!
+    text: >+
+      \<script async data-uid="f37f510aea"
+      src="https\://deft-maker-2251.ck.page/f37f510aea/index.js"></script>
+
     media:
       fields:
         - name: name
