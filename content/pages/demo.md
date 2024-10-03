@@ -99,4 +99,5 @@ slug: demo
 isDraft: false
 seo:
   type: Seo
+  metaTitle: Demo
 ---
