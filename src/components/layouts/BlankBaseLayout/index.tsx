@@ -12,6 +12,7 @@ export default function BlankBaseLayout(props) {
                 {/* <!-- Start cookieyes banner --> */}
                 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/def65fd35e3d2a37aaea8c55/script.js"></script>
                 {/* <!-- End cookieyes banner --> */}
+                <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
                 <title>{page.title}</title>
                 <meta name="description" content="Components Library" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
