@@ -625,7 +625,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >+
-      \<script src="<https://f.convertkit.com/ckjs/ck.5.js>"></script>
+      \<script src="<https://f.convertkit.com/ckjs/ck.5.js>">
+
+
 
 
       <form action="https\://app.kit.com/forms/7186178/subscriptions"
