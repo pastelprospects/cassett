@@ -624,31 +624,9 @@ sections:
     type: FeaturedItemsSection
   - type: GenericSection
     subtitle: ''
-    text: >
-      \<script src="<https://f.convertkit.com/ckjs/ck.5.js>"></script>
+    text: |+
 
 
-      <div data-style="full"></div><div data-element="column"
-      class="formkit-column"><div class="formkit-header" data-element="header"
-      style="color: rgb(102, 102, 102); font-size: 28px; font-weight:
-      700;"><h2></h2></div><ul class="formkit-alert formkit-alert-error"
-      data-element="errors" data-group="alert"></ul><div data-element="fields"
-      class="seva-fields formkit-fields"><div class="formkit-field"><input
-      class="formkit-input" name="email\\\\\\\_address" aria-label="Email
-      Address" placeholder="Email Address" required="" type="email"
-      style="color: rgb(146, 146, 146); border-color: rgb(228, 231, 234);
-      border-radius: 8px; font-weight: 400; background-color: rgb(247, 247,
-      247);"></div><button data-element="submit" class="formkit-submit
-      formkit-submit" style="color: rgb(255, 255, 255); background-color:
-      rgb(175, 119, 88); border-radius: 8px; font-weight: 700;"><div
-      class="formkit-spinner"><div></div><div></div><div></div></div><span
-      class=""></span></button></div><div class="formkit-disclaimer"
-      data-element="disclaimer" style="color: rgb(110, 110, 110); font-size:
-      13px;"></div><div class="formkit-powered-by-convertkit-container"><a
-      href="https\\\\://kit.com/features/forms?utm\\\\\\\_campaign=poweredby\\\\\\\&utm\\\\\\\_content=form\\\\\\\&utm\\\\\\\_medium=referral\\\\\\\&utm\\\\\\\_source=dynamic"
-      data-element="powered-by" class="formkit-powered-by-convertkit"
-      data-variant="dark" target="\\\\\\\_blank"
-      rel="nofollow"></a></div></div></div><style></style></form>
     actions: []
     colors: bg-light-fg-dark
     styles:
