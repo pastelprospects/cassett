@@ -642,7 +642,7 @@ sections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: your name
+          placeholder: full name
           isRequired: true
           width: full
         - type: EmailFormControl
