@@ -625,7 +625,7 @@ sections:
   - type: GenericSection
     subtitle: Join Our Waitlist
     text: |
-      Sign up to stay up-to-date on our latest releases!
+      Sign up to stay up-to-date on our latest releases:
     actions: []
     colors: bg-light-fg-dark
     styles:
