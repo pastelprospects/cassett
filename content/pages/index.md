@@ -653,7 +653,7 @@ sections:
           hideLabel: true
           placeholder: abc@xyz.com
           isRequired: true
-          width: 1/2
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
