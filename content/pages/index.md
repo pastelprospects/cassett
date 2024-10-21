@@ -670,6 +670,10 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.
