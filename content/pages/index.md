@@ -651,7 +651,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: abc@xyz.com
           isRequired: true
           width: full
       submitButton:
