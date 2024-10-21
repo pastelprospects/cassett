@@ -623,7 +623,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: GenericSection
-    subtitle: Join Our Waitlist
+    subtitle: ''
     text: |
       Sign up to stay up-to-date on our latest releases:
     actions: []
