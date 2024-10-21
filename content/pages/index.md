@@ -624,10 +624,8 @@ sections:
     type: FeaturedItemsSection
   - type: GenericSection
     subtitle: ''
-    text: >+
-      <iframe aria-label='Cassett Waitlist' frameborder="0"
-      style="height:500px;width:99%;border:none;"
-      src='https\://forms.zohopublic.com/samuelpastelp1/form/CassettWaitlist/formperma/KcfZFdJQCXFr5zZwep0jkmp5bf6wlf4goQI4RLiYTAk'></iframe>
+    text: |+
+
 
     actions: []
     colors: bg-light-fg-dark
