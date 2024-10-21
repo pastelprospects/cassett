@@ -649,7 +649,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: abc@xyz.com
+          placeholder: email address
           isRequired: true
           width: full
       submitButton:
