@@ -672,7 +672,7 @@ sections:
           borderRadius: large
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Join Our Waitlist
       color: text-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
