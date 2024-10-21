@@ -624,9 +624,8 @@ sections:
     type: FeaturedItemsSection
   - type: GenericSection
     subtitle: Join Our Waitlist
-    text: |+
-
-
+    text: |
+      Sign-up to stay up-to-date on our latest releases
     actions: []
     colors: bg-light-fg-dark
     styles:
