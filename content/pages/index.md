@@ -672,7 +672,7 @@ sections:
           borderRadius: large
     title:
       type: TitleBlock
-      text: Join Our Waitlist
+      text: Join Our Mailing List
       color: text-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
