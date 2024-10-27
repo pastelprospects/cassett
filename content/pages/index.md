@@ -625,9 +625,8 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >+
-      <iframe aria-label='Cassett Waitlist' frameborder="0"
-      style="height:500px;width:99%;border:none;"
-      src='https\://forms.zohopublic.com/samuelpastelp1/form/CassettWaitlist/formperma/KcfZFdJQCXFr5zZwep0jkmp5bf6wlf4goQI4RLiYTAk'></iframe>
+      \<script async data-uid="f37f510aea"
+      src="https\://deft-maker-2251.ck.page/f37f510aea/index.js"></script>
 
     actions: []
     colors: bg-light-fg-dark
