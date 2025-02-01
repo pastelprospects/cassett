@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Monologue Memoir
     text: |
-      A therapeutic, audio-visual journaling experience.
+      An enhanced audio-visual journaling experience.
     actions:
       - label: Join Waitlist
         altText: ''
@@ -622,36 +622,42 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Mindful Memos
-      color: text-dark
-      type: TitleBlock
-    subtitle: Join Our Mailing List
-    text: >
-      Subscribe to our mailing list to stay up-to-date on the latest
-      developments!
+  - type: GenericSection
+    subtitle: ''
+    text: |
+      Sign-up to our mailing list to stay in the loop:
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
-          isRequired: true
+          placeholder: full name
+          isRequired: false
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: email address
           isRequired: true
           width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -664,21 +670,10 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Stay In TOuch
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
+    title:
+      type: TitleBlock
+      text: Join Our Newsletter
+      color: text-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.

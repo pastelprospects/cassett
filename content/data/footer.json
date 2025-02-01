@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A therapeutic audio-visual experience\n",
+    "text": "An audio-visual journaling experience\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -79,7 +79,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "© 2024 Casett LLC, All Rights Reserved\n",
+    "copyrightText": "© 2025 Cassett LLC, All Rights Reserved\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
