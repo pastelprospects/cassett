@@ -623,7 +623,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: GenericSection
-    subtitle: Stay In Touch
+    subtitle: ''
     text: |
       Sign-up to our mailing list to stay in the loop:
     actions: []
