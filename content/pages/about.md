@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A therapeutic audio-visual experience
+    subtitle: An audio-visual journaling experience
     text: >
       A memoir is meant to be personal. Your expression of self is meant to be
       limitless. Pairing both of these concepts together, Cassett promises a
