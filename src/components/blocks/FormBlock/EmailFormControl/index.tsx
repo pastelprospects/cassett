@@ -21,7 +21,7 @@ export default function EmailFormControl(props) {
             className={classNames('sb-form-control', 'w-full', {
                 'sm:w-formField': width === '1/2'
             })}
-            data-sb-field-path={fieldPath} netlify
+            data-sb-field-path={fieldPath}
         >
             {label && (
                 <label
