@@ -625,7 +625,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |
-      Sign-up to our mailing list to stay in the loop:
+      Sign up to our mailing list to stay in the loop:
     actions: []
     colors: bg-light-fg-dark
     styles:
