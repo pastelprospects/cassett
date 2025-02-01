@@ -627,7 +627,7 @@ sections:
       type: TitleBlock
       text: Join Our Newsletter
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |
       Sign up to stay in the loop!
     actions: []
