@@ -623,17 +623,13 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: GenericSection
-    subtitle: ''
-    text: |
-      Sign-up to our mailing list to stay in the loop:
+    title:
+      type: TitleBlock
+      text: Join Our Newsletter
+      color: text-dark
+    subtitle: Sign up to stay in the loop!
+    text: ''
     actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
     media:
       type: FormBlock
       fields:
@@ -642,7 +638,7 @@ sections:
           label: Name
           hideLabel: true
           placeholder: full name
-          isRequired: false
+          isRequired: true
           width: full
         - type: EmailFormControl
           name: email
@@ -654,7 +650,6 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -670,10 +665,11 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    title:
-      type: TitleBlock
-      text: Join Our Newsletter
-      color: text-dark
+    badge:
+      type: Badge
+      label: STAY IN Touch
+      color: text-primary
+    colors: bg-light-fg-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.
