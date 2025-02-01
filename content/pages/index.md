@@ -680,58 +680,6 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-  - type: GenericSection
-    subtitle: ''
-    text: |
-      Sign up to our mailing list to stay in the loop:
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: full name
-          isRequired: false
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: email address
-          isRequired: true
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    title:
-      type: TitleBlock
-      text: Join Our Newsletter
-      color: text-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.
