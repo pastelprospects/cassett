@@ -15,6 +15,17 @@ export default function BlankBaseLayout(props) {
                 <title>{page.title}</title>
                 <meta name="description" content="Components Library" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
+                <form name="contact" netlify>
+                  <p>
+                    <label>Name <input type="text" name="name" /></label>
+                  </p>
+                  <p>
+                    <label>Email <input type="email" name="email" /></label>
+                  </p>
+                  <p>
+                    <button type="submit">Send</button>
+                  </p>
+                </form>
             </Head>
             {props.children}
         </div>
