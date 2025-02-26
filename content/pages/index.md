@@ -375,7 +375,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 2
+        tagline: Blurb 2
         subtitle: >-
           "I'm bought into revisitng personal conversations as a form of
           productive self reflection. I initially didn't expect AI assist to
