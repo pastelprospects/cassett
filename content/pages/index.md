@@ -407,7 +407,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 3
+        tagline: Blurb 3
         subtitle: >-
           "My favorite part is just zoning out to personalized playlists based
           on my mood. Short walk? Long hike? Medium workout? Extended study
