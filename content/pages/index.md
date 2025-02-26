@@ -344,7 +344,7 @@ sections:
     subtitle: The Word Around Town
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: Blurb 1
         subtitle: >-
           “I could never find the exact words to describe how I felt before
           Cassett. It's liberating to not have to rely on the structure of
