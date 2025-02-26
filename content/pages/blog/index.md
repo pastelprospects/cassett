@@ -5,7 +5,7 @@ numOfPostsPerPage: 6
 enableSearch: false
 topSections:
   - title:
-      text: Mindful Memos
+      text: Dot XYX
       color: text-dark
       type: TitleBlock
     subtitle: Featured Posts
