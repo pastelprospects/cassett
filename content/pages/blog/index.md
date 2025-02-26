@@ -5,7 +5,7 @@ numOfPostsPerPage: 6
 enableSearch: false
 topSections:
   - title:
-      text: Dot XYX
+      text: Dot XYZ
       color: text-dark
       type: TitleBlock
     subtitle: Featured Posts
