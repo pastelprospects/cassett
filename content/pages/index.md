@@ -163,34 +163,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trustworthy Tools
-    images:
-      - url: /images/cassett1.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/dele.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/takecharge.svg
-        altText: Vise logo
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-      - url: /images/pastel.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
