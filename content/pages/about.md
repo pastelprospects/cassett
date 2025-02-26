@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: An Audio-Visual Journaling Experience
     text: >
-      A memoir is meant to be personal. Your expression of self is meant to be
+      A memoir is meant to be personal; your expression of self is meant to be
       limitless. Pairing both of these concepts together, Cassett promises a
       truly personalized experience without the inherent limitations of a
       memoir. Flip the page and experience the multi-dimensionality of an
