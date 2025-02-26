@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Fully Immersive, Mindful Moments'
+    subtitle: Fully Immersive Mindful Moments
     items:
       - type: FeaturedItem
         title: Memoir
