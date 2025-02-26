@@ -5,7 +5,7 @@ numOfPostsPerPage: 6
 enableSearch: false
 topSections:
   - title:
-      text: Dot XYZ
+      text: Memos and More
       color: text-dark
       type: TitleBlock
     subtitle: Featured Posts
