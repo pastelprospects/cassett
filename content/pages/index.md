@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Fully Immersive, Mindful Moments'
+    subtitle: Fully Immersive Mindful Moments
     items:
       - type: FeaturedItem
         title: Memoir
@@ -163,44 +163,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trustworthy Tools
-    images:
-      - url: /images/cassett1.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/dele.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/takecharge.svg
-        altText: Vise logo
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-      - url: /images/pastel.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Introducing a More Capable Journal
       color: text-dark
@@ -382,7 +344,7 @@ sections:
     subtitle: The Word Around Town
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: Blurb 1
         subtitle: >-
           “I could never find the exact words to describe how I felt before
           Cassett. It's liberating to not have to rely on the structure of
@@ -413,7 +375,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 2
+        tagline: Blurb 2
         subtitle: >-
           "I'm bought into revisitng personal conversations as a form of
           productive self reflection. I initially didn't expect AI assist to
@@ -445,7 +407,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 3
+        tagline: Blurb 3
         subtitle: >-
           "My favorite part is just zoning out to personalized playlists based
           on my mood. Short walk? Long hike? Medium workout? Extended study
@@ -622,54 +584,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Join Our Newsletter
-      color: text-dark
-    subtitle: Sign up to stay in the loop!
-    text: ''
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: full name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: email address
-          isRequired: true
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: STAY IN Touch
-      color: text-primary
-    colors: bg-light-fg-dark
 seo:
   metaTitle: Cassett - Monologue Memoir
   metaDescription: A therapeutic audio-visual experience.
