@@ -14,7 +14,7 @@ export default function BlankBaseLayout(props) {
                 {/* <!-- End cookieyes banner --> */}
                 <title>{page.title}</title>
                 <meta name="description" content="Components Library" />
-                {site.favicon && <link rel="icon" href={site.favicon} />}
+                {site.favicon && <link rel="icon" href={site.favicon} />
             </Head>
             {props.children}
         </div>
